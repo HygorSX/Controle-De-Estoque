@@ -31,6 +31,9 @@ namespace Controle_Estoque
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
+
+            bundles.Add(new StyleBundle("~/Content/bootstrap-icons").Include(
+                  "~/Content/bootstrap-icons/font/bootstrap-icons.css"));
         }
     }
 }

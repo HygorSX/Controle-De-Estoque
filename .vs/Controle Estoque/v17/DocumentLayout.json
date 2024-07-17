@@ -3,31 +3,55 @@
   "WorkspaceRootPath": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\views\\conta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\views\\conta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\views\\cadastro\\grupoproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\views\\cadastro\\grupoproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\controllers\\cadastrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\controllers\\cadastrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|c:\\users\\hygor\\onedrive\\documentos\\controle-de-estoque\\controle estoque\\scripts\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\views\\cadastro\\fornecedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\views\\cadastro\\fornecedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|c:\\users\\hygor\\onedrive\\documentos\\controle-de-estoque\\controle estoque\\models\\grupoprodutomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\models\\grupoprodutomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|c:\\users\\hygor\\onedrive\\documentos\\controle-de-estoque\\controle estoque\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|c:\\users\\hygor\\onedrive\\documentos\\controle-de-estoque\\controle estoque\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\views\\conta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\views\\conta\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\controllers\\contacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\scripts\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\scripts\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
@@ -49,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\controllers\\graficocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\controllers\\graficocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\views\\cadastro\\grupoproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\views\\cadastro\\grupoproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\views\\cadastro\\cidade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -119,20 +139,8 @@
       "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\views\\cadastro\\localproduto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\views\\cadastro\\fornecedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\views\\cadastro\\fornecedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\views\\cadastro\\estado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\views\\cadastro\\estado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|solutionrelative:controle estoque\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7DE4D23-718D-464B-81BC-347A6B025131}|Controle Estoque\\Controle Estoque.csproj|C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\controle estoque\\scripts\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -158,24 +166,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "GrupoProdutoModel.cs",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\models\\GrupoProdutoModel.cs",
+              "RelativeDocumentMoniker": "Controle Estoque\\models\\GrupoProdutoModel.cs",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\models\\GrupoProdutoModel.cs",
+              "RelativeToolTip": "Controle Estoque\\models\\GrupoProdutoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T00:15:42.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "Controle Estoque\\models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\models\\UsuarioModel.cs",
+              "RelativeToolTip": "Controle Estoque\\models\\UsuarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T22:40:57.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Controle Estoque\\models\\LoginViewModel.cs",
               "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\models\\LoginViewModel.cs",
               "RelativeToolTip": "Controle Estoque\\models\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T01:55:25.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Web.config",
               "RelativeDocumentMoniker": "Controle Estoque\\Web.config",
@@ -188,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controle Estoque\\Controllers\\HomeController.cs",
@@ -196,11 +230,12 @@
               "RelativeToolTip": "Controle Estoque\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T01:51:11.461Z"
+              "WhenOpened": "2024-07-13T01:51:11.461Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "GraficoController.cs",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Controllers\\GraficoController.cs",
               "RelativeDocumentMoniker": "Controle Estoque\\Controllers\\GraficoController.cs",
@@ -208,37 +243,38 @@
               "RelativeToolTip": "Controle Estoque\\Controllers\\GraficoController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T01:51:02.392Z"
+              "WhenOpened": "2024-07-13T01:51:02.392Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "ContaController.cs",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Controllers\\ContaController.cs",
               "RelativeDocumentMoniker": "Controle Estoque\\Controllers\\ContaController.cs",
               "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Controllers\\ContaController.cs",
               "RelativeToolTip": "Controle Estoque\\Controllers\\ContaController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwBcAAAAkAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwBEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-13T01:48:06.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Conta\\Login.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Conta\\Login.cshtml",
               "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Conta\\Login.cshtml",
               "RelativeToolTip": "Controle Estoque\\Views\\Conta\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-13T01:44:34.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "EntradaEstoque.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Operacao\\EntradaEstoque.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Operacao\\EntradaEstoque.cshtml",
@@ -246,11 +282,12 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Operacao\\EntradaEstoque.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:57.666Z"
+              "WhenOpened": "2024-07-12T18:32:57.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Inventario.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Operacao\\Inventario.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Operacao\\Inventario.cshtml",
@@ -258,11 +295,12 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Operacao\\Inventario.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:33:02.699Z"
+              "WhenOpened": "2024-07-12T18:33:02.699Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "LancPerdaProduto.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Operacao\\LancPerdaProduto.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Operacao\\LancPerdaProduto.cshtml",
@@ -270,11 +308,12 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Operacao\\LancPerdaProduto.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:33:08.719Z"
+              "WhenOpened": "2024-07-12T18:33:08.719Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "SaidaEstoque.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Operacao\\SaidaEstoque.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Operacao\\SaidaEstoque.cshtml",
@@ -282,11 +321,12 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Operacao\\SaidaEstoque.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:33:14.691Z"
+              "WhenOpened": "2024-07-12T18:33:14.691Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "PosicaoEstoque.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Relatorio\\PosicaoEstoque.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Relatorio\\PosicaoEstoque.cshtml",
@@ -294,11 +334,12 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Relatorio\\PosicaoEstoque.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:33:19.13Z"
+              "WhenOpened": "2024-07-12T18:33:19.13Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Ressuprimento.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Relatorio\\Ressuprimento.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Relatorio\\Ressuprimento.cshtml",
@@ -306,11 +347,12 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Relatorio\\Ressuprimento.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:33:24.579Z"
+              "WhenOpened": "2024-07-12T18:33:24.579Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Cidade.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Cadastro\\Cidade.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Cadastro\\Cidade.cshtml",
@@ -318,36 +360,38 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\Cidade.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:24:14.098Z"
+              "WhenOpened": "2024-07-12T18:24:14.098Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "GrupoProduto.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Cadastro\\GrupoProduto.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Cadastro\\GrupoProduto.cshtml",
               "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Cadastro\\GrupoProduto.cshtml",
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\GrupoProduto.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:31:41.929Z"
+              "WhenOpened": "2024-07-12T18:31:41.929Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Controle Estoque\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFsAAAAOAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-11T12:51:40.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "PerdaMes.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Grafico\\PerdaMes.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Grafico\\PerdaMes.cshtml",
@@ -355,11 +399,12 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Grafico\\PerdaMes.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:53.034Z"
+              "WhenOpened": "2024-07-12T18:32:53.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "EntradaSaidaMesa.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Grafico\\EntradaSaidaMesa.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Grafico\\EntradaSaidaMesa.cshtml",
@@ -367,11 +412,12 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Grafico\\EntradaSaidaMesa.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:45.939Z"
+              "WhenOpened": "2024-07-12T18:32:45.939Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "Usuario.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Cadastro\\Usuario.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Cadastro\\Usuario.cshtml",
@@ -379,11 +425,12 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\Usuario.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:41.17Z"
+              "WhenOpened": "2024-07-12T18:32:41.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "UnidadeMedida.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Cadastro\\UnidadeMedida.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Cadastro\\UnidadeMedida.cshtml",
@@ -391,11 +438,12 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\UnidadeMedida.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:35.474Z"
+              "WhenOpened": "2024-07-12T18:32:35.474Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Produto.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Cadastro\\Produto.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Cadastro\\Produto.cshtml",
@@ -403,11 +451,12 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\Produto.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:31.418Z"
+              "WhenOpened": "2024-07-12T18:32:31.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "PerfilUsuario.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Cadastro\\PerfilUsuario.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Cadastro\\PerfilUsuario.cshtml",
@@ -415,11 +464,12 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\PerfilUsuario.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:26.314Z"
+              "WhenOpened": "2024-07-12T18:32:26.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Pais.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Cadastro\\Pais.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Cadastro\\Pais.cshtml",
@@ -427,11 +477,12 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\Pais.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:20.903Z"
+              "WhenOpened": "2024-07-12T18:32:20.903Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "MarcaProduto.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Cadastro\\MarcaProduto.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Cadastro\\MarcaProduto.cshtml",
@@ -439,11 +490,12 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\MarcaProduto.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:15.669Z"
+              "WhenOpened": "2024-07-12T18:32:15.669Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "LocalProduto.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Cadastro\\LocalProduto.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Cadastro\\LocalProduto.cshtml",
@@ -451,11 +503,12 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\LocalProduto.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:10.026Z"
+              "WhenOpened": "2024-07-12T18:32:10.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 2,
               "Title": "Fornecedor.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Cadastro\\Fornecedor.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Cadastro\\Fornecedor.cshtml",
@@ -463,11 +516,12 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\Fornecedor.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:31:36.858Z"
+              "WhenOpened": "2024-07-12T18:31:36.858Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "Estado.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Cadastro\\Estado.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Cadastro\\Estado.cshtml",
@@ -475,36 +529,38 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\Estado.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:31:31.85Z"
+              "WhenOpened": "2024-07-12T18:31:31.85Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "CadastroController.cs",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Controllers\\CadastroController.cs",
               "RelativeDocumentMoniker": "Controle Estoque\\Controllers\\CadastroController.cs",
               "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Controllers\\CadastroController.cs",
               "RelativeToolTip": "Controle Estoque\\Controllers\\CadastroController.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAA4wEcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T14:28:16.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\_ViewStart.cshtml",
               "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Controle Estoque\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-11T14:40:46.289Z"
+              "WhenOpened": "2024-07-11T14:40:46.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Site.css",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Content\\Site.css",
               "RelativeDocumentMoniker": "Controle Estoque\\Content\\Site.css",
@@ -517,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "RelatorioController.cs",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Controllers\\RelatorioController.cs",
               "RelativeDocumentMoniker": "Controle Estoque\\Controllers\\RelatorioController.cs",
@@ -525,11 +581,12 @@
               "RelativeToolTip": "Controle Estoque\\Controllers\\RelatorioController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T18:29:04.34Z"
+              "WhenOpened": "2024-07-12T18:29:04.34Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "OperacaoController.cs",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Controllers\\OperacaoController.cs",
               "RelativeDocumentMoniker": "Controle Estoque\\Controllers\\OperacaoController.cs",
@@ -537,11 +594,12 @@
               "RelativeToolTip": "Controle Estoque\\Controllers\\OperacaoController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAqwB0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T18:05:12.596Z"
+              "WhenOpened": "2024-07-12T18:05:12.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "bootstrap.bundle.js",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Scripts\\bootstrap.bundle.js",
               "RelativeDocumentMoniker": "Controle Estoque\\Scripts\\bootstrap.bundle.js",
@@ -554,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Content\\bootstrap.css",
               "RelativeDocumentMoniker": "Controle Estoque\\Content\\bootstrap.css",
@@ -566,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "bootstrap.js",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Scripts\\bootstrap.js",
               "RelativeDocumentMoniker": "Controle Estoque\\Scripts\\bootstrap.js",
@@ -578,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Home\\Index.cshtml",
@@ -590,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "Sobre.cshtml",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\Views\\Home\\Sobre.cshtml",
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Home\\Sobre.cshtml",
@@ -602,15 +660,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 5,
               "Title": "BundleConfig.cs",
               "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "Controle Estoque\\App_Start\\BundleConfig.cs",
               "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Controle-De-Estoque\\Controle Estoque\\App_Start\\BundleConfig.cs",
               "RelativeToolTip": "Controle Estoque\\App_Start\\BundleConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T12:46:30.929Z"
+              "WhenOpened": "2024-07-11T12:46:30.929Z",
+              "EditorCaption": ""
             }
           ]
         }
