@@ -15,7 +15,7 @@ namespace Controle_Estoque.Models
 
             using (var conn = new SqlConnection())
             {
-                conn.ConnectionString = @"Server=DESKTOP-73M6QT8\MSSQLSERVER01;Database=controle-estoque;Integrated Security=True;";
+                conn.ConnectionString = @"Server=192.168.222.243; Database=cntl-estoque-YT; User Id=sa; Password=sa; Connect Timeout=30; Encrypt=False; TrustServerCertificate=True; ApplicationIntent=ReadWrite; MultiSubnetFailover=False";
                 conn.Open();
                 using (var comando = new SqlCommand())
                 {

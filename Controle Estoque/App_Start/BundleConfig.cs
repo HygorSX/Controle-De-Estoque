@@ -23,7 +23,8 @@ namespace Controle_Estoque
                       "~/Scripts/bootstrap.js")); */
             
             bundles.Add(new Bundle("~/bundles/bootstrap").Include(
-                      "~/Scripts/bootstrap.bundle.js"));
+                      "~/Scripts/bootstrap.bundle.js",
+                      "~/Scripts/bootbox.min.js"));
 
             /*bundles.Add(new ScriptBundle("~/bundles/popper").Include(
                       "~/Scripts/umd/popper.min.js"));*/
