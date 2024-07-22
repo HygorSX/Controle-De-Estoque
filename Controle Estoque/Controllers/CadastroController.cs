@@ -46,6 +46,27 @@ namespace Controle_Estoque.Controllers
             return Json(ret);
         }
 
+        [HttpPost]
+        [Authorize]
+        public ActionResult SalvarGrupoProduto(GrupoProdutoModel model)
+        {
+            var registroDB = _listaGrupoProduto.Find(x => x.Id == model.Id);
+
+            if(registroDB == null)
+            {
+                registroDB = model;
+                registroDB.Id = _listaGrupoProduto.Max(x => x.Id) + 1;
+                _listaGrupoProduto.Add(registroDB);
+            }
+            else
+            {
+                registroDB.Nome = model.Nome;
+                registroDB.Ativo = model.Ativo;
+            }
+
+            return Json(registroDB);
+        }
+
         [Authorize]
         public ActionResult MarcaProduto()
         {

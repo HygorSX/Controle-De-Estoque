@@ -176,7 +176,7 @@
               "RelativeDocumentMoniker": "Controle Estoque\\Views\\Cadastro\\GrupoProduto.cshtml",
               "ToolTip": "C:\\Users\\PMB\\Documents\\Controle Estoque\\Controle Estoque\\Views\\Cadastro\\GrupoProduto.cshtml",
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\GrupoProduto.cshtml",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAswJsAAAAlAAAA",
+              "ViewState": "AQIAALMAAAAAAAAAAAAAANQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-12T18:31:41.929Z",
               "EditorCaption": ""
@@ -191,8 +191,7 @@
               "RelativeToolTip": "Controle Estoque\\App_Start\\BundleConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T12:46:30.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T12:46:30.929Z"
             },
             {
               "$type": "Document",
@@ -202,7 +201,7 @@
               "RelativeDocumentMoniker": "Controle Estoque\\Controllers\\CadastroController.cs",
               "ToolTip": "C:\\Users\\PMB\\Documents\\Controle Estoque\\Controle Estoque\\Controllers\\CadastroController.cs",
               "RelativeToolTip": "Controle Estoque\\Controllers\\CadastroController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwDcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T14:28:16.783Z",
               "EditorCaption": ""
@@ -217,8 +216,7 @@
               "RelativeToolTip": "Controle Estoque\\models\\UsuarioModel.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwBcAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T22:40:57.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T22:40:57.14Z"
             },
             {
               "$type": "Document",
@@ -230,8 +228,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAoAAAAAAAAAAEBVwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-11T12:51:40.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T12:51:40.98Z"
             },
             {
               "$type": "Document",
@@ -243,8 +240,7 @@
               "RelativeToolTip": "Controle Estoque\\Content\\Site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-11T12:48:03.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T12:48:03.091Z"
             },
             {
               "$type": "Document",
@@ -256,8 +252,7 @@
               "RelativeToolTip": "Controle Estoque\\Controllers\\ContaController.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAhwBEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T01:48:06.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T01:48:06.852Z"
             },
             {
               "$type": "Document",
@@ -269,8 +264,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Operacao\\LancPerdaProduto.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:33:08.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:33:08.719Z"
             },
             {
               "$type": "Document",
@@ -282,8 +276,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Operacao\\SaidaEstoque.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:33:14.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:33:14.691Z"
             },
             {
               "$type": "Document",
@@ -295,8 +288,7 @@
               "RelativeToolTip": "Controle Estoque\\models\\GrupoProdutoModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T00:15:42.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T00:15:42.203Z"
             },
             {
               "$type": "Document",
@@ -308,8 +300,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\LocalProduto.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:10.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:32:10.026Z"
             },
             {
               "$type": "Document",
@@ -321,8 +312,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Operacao\\Inventario.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:33:02.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:33:02.699Z"
             },
             {
               "$type": "Document",
@@ -334,8 +324,7 @@
               "RelativeToolTip": "Controle Estoque\\models\\LoginViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T01:55:25.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T01:55:25.164Z"
             },
             {
               "$type": "Document",
@@ -347,8 +336,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Operacao\\EntradaEstoque.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:57.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:32:57.666Z"
             },
             {
               "$type": "Document",
@@ -360,8 +348,7 @@
               "RelativeToolTip": "Controle Estoque\\Controllers\\GraficoController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T01:51:02.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T01:51:02.392Z"
             },
             {
               "$type": "Document",
@@ -373,8 +360,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Conta\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-13T01:44:34.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T01:44:34.976Z"
             },
             {
               "$type": "Document",
@@ -386,8 +372,7 @@
               "RelativeToolTip": "Controle Estoque\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T01:51:11.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-13T01:51:11.461Z"
             },
             {
               "$type": "Document",
@@ -412,8 +397,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Relatorio\\PosicaoEstoque.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:33:19.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:33:19.13Z"
             },
             {
               "$type": "Document",
@@ -425,8 +409,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Relatorio\\Ressuprimento.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:33:24.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:33:24.579Z"
             },
             {
               "$type": "Document",
@@ -438,8 +421,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\Cidade.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:24:14.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:24:14.098Z"
             },
             {
               "$type": "Document",
@@ -451,8 +433,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Grafico\\PerdaMes.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:53.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:32:53.034Z"
             },
             {
               "$type": "Document",
@@ -464,8 +445,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Grafico\\EntradaSaidaMesa.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:45.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:32:45.939Z"
             },
             {
               "$type": "Document",
@@ -477,8 +457,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\Usuario.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:41.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:32:41.17Z"
             },
             {
               "$type": "Document",
@@ -490,8 +469,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\UnidadeMedida.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:35.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:32:35.474Z"
             },
             {
               "$type": "Document",
@@ -503,8 +481,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\Produto.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:31.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:32:31.418Z"
             },
             {
               "$type": "Document",
@@ -516,8 +493,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\PerfilUsuario.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:26.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:32:26.314Z"
             },
             {
               "$type": "Document",
@@ -529,8 +505,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\Pais.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:20.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:32:20.903Z"
             },
             {
               "$type": "Document",
@@ -542,8 +517,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\MarcaProduto.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:32:15.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:32:15.669Z"
             },
             {
               "$type": "Document",
@@ -555,8 +529,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\Fornecedor.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:31:36.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:31:36.858Z"
             },
             {
               "$type": "Document",
@@ -568,8 +541,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Cadastro\\Estado.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T18:31:31.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:31:31.85Z"
             },
             {
               "$type": "Document",
@@ -581,8 +553,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-11T14:40:46.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T14:40:46.289Z"
             },
             {
               "$type": "Document",
@@ -594,8 +565,7 @@
               "RelativeToolTip": "Controle Estoque\\Controllers\\RelatorioController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T18:29:04.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:29:04.34Z"
             },
             {
               "$type": "Document",
@@ -607,8 +577,7 @@
               "RelativeToolTip": "Controle Estoque\\Controllers\\OperacaoController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAqwB0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T18:05:12.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T18:05:12.596Z"
             },
             {
               "$type": "Document",
@@ -620,8 +589,7 @@
               "RelativeToolTip": "Controle Estoque\\Scripts\\bootstrap.bundle.js",
               "ViewState": "AQIAAKQBAAAAAAAAAAAnwMABAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-12T17:03:37.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T17:03:37.834Z"
             },
             {
               "$type": "Document",
@@ -633,8 +601,7 @@
               "RelativeToolTip": "Controle Estoque\\Content\\bootstrap.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-11T13:29:03.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T13:29:03.972Z"
             },
             {
               "$type": "Document",
@@ -646,8 +613,7 @@
               "RelativeToolTip": "Controle Estoque\\Scripts\\bootstrap.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-11T14:52:36.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T14:52:36.465Z"
             },
             {
               "$type": "Document",
@@ -659,8 +625,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-11T12:59:13.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T12:59:13.397Z"
             },
             {
               "$type": "Document",
@@ -672,8 +637,7 @@
               "RelativeToolTip": "Controle Estoque\\Views\\Home\\Sobre.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-11T12:49:02.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T12:49:02.258Z"
             }
           ]
         }
