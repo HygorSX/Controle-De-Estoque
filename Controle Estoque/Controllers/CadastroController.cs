@@ -20,51 +20,58 @@ namespace Controle_Estoque.Controllers
         [Authorize]
         public ActionResult GrupoProduto()
         {
-            return View(_listaGrupoProduto);
+            return View(GrupoProdutoModel.RecuperarLista());
         }
 
         [HttpPost]
         [Authorize]
         public ActionResult RecuperarGrupoProduto(int id)
         {
-            return Json(_listaGrupoProduto.Find(x => x.Id == id));
+            return Json(GrupoProdutoModel.RecuperarPorID(id));
         }
 
         [HttpPost]
         [Authorize]
         public ActionResult ExcluirGrupoProduto(int id)
         {
-            var ret = false;
-            var registroDB = _listaGrupoProduto.Find(x => x.Id == id);
-
-            if(registroDB != null)
-            {
-                _listaGrupoProduto.Remove(registroDB);
-                ret = true;
-            }
-
-            return Json(ret);
+            return Json(GrupoProdutoModel.ExcluirPorId(id));
         }
 
         [HttpPost]
         [Authorize]
         public ActionResult SalvarGrupoProduto(GrupoProdutoModel model)
         {
-            var registroDB = _listaGrupoProduto.Find(x => x.Id == model.Id);
+            var resultado = "OK";
+            var mensagens = new List<string>();
+            var idSalvo = string.Empty;
 
-            if(registroDB == null)
+
+            if (!ModelState.IsValid)
             {
-                registroDB = model;
-                registroDB.Id = _listaGrupoProduto.Max(x => x.Id) + 1;
-                _listaGrupoProduto.Add(registroDB);
+                resultado = "AVISO";
+                mensagens = ModelState.Values.SelectMany(x => x.Errors).Select(x => x.ErrorMessage).ToList();
             }
             else
             {
-                registroDB.Nome = model.Nome;
-                registroDB.Ativo = model.Ativo;
+                try
+                {
+                    var id = model.Salvar();
+                    if (id > 0)
+                    {
+                        idSalvo = id.ToString();
+                    }
+                    else
+                    {
+                        resultado = "ERRO";
+                    }
+                }
+                catch (Exception ex)
+                {
+                    resultado = "ERRO";
+                }
             }
 
-            return Json(registroDB);
+            return Json(new { Resultado = resultado, Mensagens = mensagens, IdSalvo = idSalvo });
         }
 
         [Authorize]

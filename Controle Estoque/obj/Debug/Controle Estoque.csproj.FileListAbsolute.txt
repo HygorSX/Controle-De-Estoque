@@ -170,3 +170,7 @@ C:\Users\hygor\OneDrive\Documentos\Controle-De-Estoque\Controle Estoque\obj\Debu
 C:\Users\hygor\OneDrive\Documentos\Controle-De-Estoque\Controle Estoque\obj\Debug\Controle.91E6F73A.Up2Date
 C:\Users\hygor\OneDrive\Documentos\Controle-De-Estoque\Controle Estoque\obj\Debug\Controle Estoque.dll
 C:\Users\hygor\OneDrive\Documentos\Controle-De-Estoque\Controle Estoque\obj\Debug\Controle Estoque.pdb
+C:\Users\PMB\Documents\Controle Estoque\Controle Estoque\bin\EntityFramework.dll
+C:\Users\PMB\Documents\Controle Estoque\Controle Estoque\bin\EntityFramework.SqlServer.dll
+C:\Users\PMB\Documents\Controle Estoque\Controle Estoque\bin\EntityFramework.xml
+C:\Users\PMB\Documents\Controle Estoque\Controle Estoque\bin\EntityFramework.SqlServer.xml

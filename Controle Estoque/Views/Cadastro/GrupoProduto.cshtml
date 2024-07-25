@@ -90,6 +90,7 @@
                             <div class="col-md-12">
                                 @Html.TextBox("txt_nome", null, new { @class = "form-control" })
                             </div>
+                                <div id="msg_mensagem_aviso" class="text-danger invisivel"></div>
                         </div>
                         <div class="form-group">
                             @Html.Label("cbx_ativo", "Ativo", new { @class = "col-md-3 control-label" })
@@ -104,6 +105,8 @@
                 <button id="btn_sair" type="button" class="btn btn-secondary" data-bs-dismiss="modal"><i class="bi bi-x-lg"></i> Cancelar</button>
                 <button id="btn_confirmar" type="button" class="btn btn-success"><i class="bi bi-check-lg"></i> Salvar</button>
             </div>
+            <div id="msg_aviso" class="alert alert-warning invisivel"> Preencha os campos acima. </div>
+            <div id="msg_erro" class="alert alert-danger invisible"> Ops! Deu ruim! </div>
         </div>
     </div>
 </div>
@@ -130,6 +133,11 @@
             $('#cbx_ativo').prop('checked', dados.Ativo);
 
             var modal_cadastro = $('#modal_cadastro');
+
+            $('#msg_mensagem_aviso').empty();
+            $('#msg_aviso').hide();
+            $('#msg_mensagem_aviso').hide();
+            $('#msg_erro').hide();
 
             modal_cadastro.on('shown.bs.modal', function () {
                 $('#txt_nome').focus();
@@ -191,10 +199,11 @@
                 };
 
             $.post(url, param, function (response) {
-                if (response) {
+                if (response.Resultado == "OK") {
                     if (param.Id == 0) {
+                        param.Id = response.IdSalvo;
                         var table = $('#grid_cadastro').find('tbody'),
-                            linha = criar_linha_grid(response);
+                            linha = criar_linha_grid(param);
 
                         table.append(linha);
                     }
@@ -207,8 +216,29 @@
 
                     $('#modal_cadastro').modal('hide');
                 }
+                else if (response.Resultado == "ERRO") {
+                    $('#msg_aviso').hide();
+                    $('#msg_mensagem_aviso').hide();
+                    $('#msg_erro').show();
+                }
+                else if (response.Resultado == "AVISO") {
+                    $('#msg_mensagem_aviso').html(formatar_mensagem_aviso(response.Mensagens));
+                    $('#msg_aviso').show();
+                    $('#msg_mensagem_aviso').show();
+                    $('#msg_erro').hide();
+                }
             })
         })
+
+        function formatar_mensagem_aviso(mensagens) {
+            var ret = '';
+
+            for (var i = 0; i < mensagens.length; i++) {
+                ret += '<li>' + mensagens[i] + '</li>';
+            }
+
+            return '<ul>' + ret + '</ul>';
+        }
     </script>
 }
 
