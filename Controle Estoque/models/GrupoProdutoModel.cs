@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Configuration;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
@@ -22,7 +23,7 @@ namespace Controle_Estoque.Models
 
             using (var conn = new SqlConnection())
             {
-                conn.ConnectionString = @"Server=192.168.222.243; Database=cntl-estoque-YT; User Id=sa; Password=sa; Connect Timeout=30; Encrypt=False; TrustServerCertificate=True; ApplicationIntent=ReadWrite; MultiSubnetFailover=False";
+                conn.ConnectionString = ConfigurationManager.ConnectionStrings["principal"].ConnectionString;
                 conn.Open();
                 using (var comando = new SqlCommand())
                 {
@@ -50,7 +51,7 @@ namespace Controle_Estoque.Models
 
             using (var conn = new SqlConnection())
             {
-                conn.ConnectionString = @"Server=192.168.222.243; Database=cntl-estoque-YT; User Id=sa; Password=sa; Connect Timeout=30; Encrypt=False; TrustServerCertificate=True; ApplicationIntent=ReadWrite; MultiSubnetFailover=False";
+                conn.ConnectionString = ConfigurationManager.ConnectionStrings["principal"].ConnectionString;
                 conn.Open();
                 using (var comando = new SqlCommand())
                 {
@@ -80,7 +81,7 @@ namespace Controle_Estoque.Models
             {
                 using (var conn = new SqlConnection())
                 {
-                    conn.ConnectionString = @"Server=192.168.222.243; Database=cntl-estoque-YT; User Id=sa; Password=sa; Connect Timeout=30; Encrypt=False; TrustServerCertificate=True; ApplicationIntent=ReadWrite; MultiSubnetFailover=False";
+                    conn.ConnectionString = ConfigurationManager.ConnectionStrings["principal"].ConnectionString;
                     conn.Open();
                     using (var comando = new SqlCommand())
                     {
@@ -102,7 +103,7 @@ namespace Controle_Estoque.Models
             
             using (var conn = new SqlConnection())
             {
-                conn.ConnectionString = @"Server=192.168.222.243; Database=cntl-estoque-YT; User Id=sa; Password=sa; Connect Timeout=30; Encrypt=False; TrustServerCertificate=True; ApplicationIntent=ReadWrite; MultiSubnetFailover=False";
+                conn.ConnectionString = ConfigurationManager.ConnectionStrings["principal"].ConnectionString;
                 conn.Open();
                 using (var comando = new SqlCommand())
                 {
